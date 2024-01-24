@@ -1,0 +1,4 @@
+.aioreadline_history
+aioreadline.egg-info
+aioreadline/__pycache__
+venv
